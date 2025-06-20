@@ -9,7 +9,7 @@ public class Calc
     public double var4;//length
     public double result1;// result of calculate area of cicle
     public double result2;// result of calculate area of square
-    public double result3;//result of calculate density of cilinder
+    public double result3;//result of calculate volume of cilinder
 
 
     public double CalculateAreaOfCircle()
@@ -62,7 +62,7 @@ public class Calc
   public double CalculateVolumeOfCilinder()
     {
        
-        Console.WriteLine("Initiating Calculation of Voluke of Cilinder");
+        Console.WriteLine("Initiating Calculation of Volume of Cilinder");
 
         
         Console.WriteLine("Radius is equal to " + var1 + "cm");
