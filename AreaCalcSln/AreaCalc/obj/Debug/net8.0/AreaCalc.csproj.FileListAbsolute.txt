@@ -1,0 +1,14 @@
+C:\Users\alexa\source\repos\AreaCalcSln\AreaCalc\bin\Debug\net8.0\AreaCalc.exe
+C:\Users\alexa\source\repos\AreaCalcSln\AreaCalc\bin\Debug\net8.0\AreaCalc.deps.json
+C:\Users\alexa\source\repos\AreaCalcSln\AreaCalc\bin\Debug\net8.0\AreaCalc.runtimeconfig.json
+C:\Users\alexa\source\repos\AreaCalcSln\AreaCalc\bin\Debug\net8.0\AreaCalc.dll
+C:\Users\alexa\source\repos\AreaCalcSln\AreaCalc\bin\Debug\net8.0\AreaCalc.pdb
+C:\Users\alexa\source\repos\AreaCalcSln\AreaCalc\obj\Debug\net8.0\AreaCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\AreaCalcSln\AreaCalc\obj\Debug\net8.0\AreaCalc.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\AreaCalcSln\AreaCalc\obj\Debug\net8.0\AreaCalc.AssemblyInfo.cs
+C:\Users\alexa\source\repos\AreaCalcSln\AreaCalc\obj\Debug\net8.0\AreaCalc.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\AreaCalcSln\AreaCalc\obj\Debug\net8.0\AreaCalc.dll
+C:\Users\alexa\source\repos\AreaCalcSln\AreaCalc\obj\Debug\net8.0\refint\AreaCalc.dll
+C:\Users\alexa\source\repos\AreaCalcSln\AreaCalc\obj\Debug\net8.0\AreaCalc.pdb
+C:\Users\alexa\source\repos\AreaCalcSln\AreaCalc\obj\Debug\net8.0\AreaCalc.genruntimeconfig.cache
+C:\Users\alexa\source\repos\AreaCalcSln\AreaCalc\obj\Debug\net8.0\ref\AreaCalc.dll
