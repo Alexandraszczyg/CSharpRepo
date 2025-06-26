@@ -44,6 +44,8 @@ namespace HeightCategory.NETFramework
             else if (heightInCm > 195)
             { Console.WriteLine("The person is abnormal height."); }
             else { Console.WriteLine("Something went wrong, please restart the app."); }
+
+            Console.ReadKey();
         }
     }
 }
